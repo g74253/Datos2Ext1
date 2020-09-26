@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gretchell/CLionProjects/TAREA1/server/Estructuras/Grafo.cpp
+Grafo.h
+/home/gretchell/CLionProjects/TAREA1/server/Estructuras/Grafo.h
+
+/home/gretchell/CLionProjects/TAREA1/server/Estructuras/Grafo.h
+queue
+-
+utility
+-
+vector
+-
+iostream
+-
+string
+-
+bits/stdc++.h
+-
+
